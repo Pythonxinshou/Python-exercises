@@ -14,3 +14,5 @@ plt.ylabel("Square of Value", fontsize=14)
 plt.tick_params(axis='both', which='major', labelsize=14)
 
 plt.show()
+
+# plt.savefig('squares_plot.png', bbox_inches='tight')
