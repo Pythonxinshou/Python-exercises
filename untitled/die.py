@@ -9,5 +9,5 @@ class Die():
         self.num_sides = num_sides
 
     def roll(self):
-        """返回一个位于1和骰子面数之间的随机值"""
+        """返回一个位于1和骰子面数之间的随机值，randint包含上下限"""
         return randint(1, self.num_sides)
