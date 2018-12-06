@@ -1,5 +1,5 @@
 import pygal
-from die import Die
+from Create_Data.die import Die
 
 
 # 创建一个D6和一个D10的骰子

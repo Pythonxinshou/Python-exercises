@@ -1,7 +1,7 @@
 import json
 
 import pygal.maps.world as pgl
-from country_codes import get_country_code
+from Download_Data.country_codes import get_country_code
 from pygal.style import LightColorizedStyle as LCS, RotateStyle as RS
 
 
