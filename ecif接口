@@ -1,0 +1,7 @@
+修改基本信息：
+ecifSprocService
+ .ecifChgEcifBaseTaxByCustIdVersion2
+修改税收国：
+ecifSprocService.ecifChgEcifTaxCountryByCustId
+K0170061(朱性伟) 12-18 18:35:26
+ecifChgEcifTaxCCTByCustId
